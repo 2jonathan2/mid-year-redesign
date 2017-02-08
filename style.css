@@ -1,4 +1,33 @@
-h1{color:green;
+h1{
+    color:white;
+    position:relative; 
+    font-family: cursive;
+    font-weight: bold;
+    font-size:90px; 
+    text-align: center;
+    }
+body{background: url("http://news.nationalgeographic.com/content/dam/news/2015/10/25/btsiberiantiger/1btsiberiantiger.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-color:black;
+    
 }
-body{background: color:green);
-;
+
+
+
+ol{
+    width:50px;
+    color:white;
+    list-style: none;
+    
+}
+li{
+    font-family: cursive;
+    font-weight: bolder;
+    font-size:30px;
+    
+}
+img{
+    width:300px;
+    float:right;
+}
